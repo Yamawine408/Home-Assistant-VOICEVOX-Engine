@@ -13,14 +13,14 @@ Using it with [VOICEVOX TTS](https://github.com/taikun114/VOICEVOX-TTS-for-Home-
 
 To install the VOICEVOX Engine Addon, you will need to add a repository. Click the button below or add the repository manually.
 
-[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Ftaikun114%2FHome-Assistant-VOICEVOX-Engine)
+[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Ftaikun114%2FHome-Assistant-VOICEVOX-Engine.git)
 
 To manually add a repository, follow these steps.
 1. Go to `Settings` → `Add-ons` in the Home Assistant.
 2. Open the `ADD-ON STORE` in the lower right corner.
 3. Click the upper right `...`, then click `Repositories`.
 4. In the `Add` section, enter the following URL:\
-   `https://github.com/taikun114/Home-Assistant-VOICEVOX-Engine`
+   `https://github.com/taikun114/Home-Assistant-VOICEVOX-Engine.git`
 
 Once you have added the repository, reload the page and click the `VOICEVOX Engine Addon` that appears to install it.
 
@@ -29,7 +29,7 @@ After installing the add-on, click `START` to launch the VOICEVOX Engine with de
 > [!TIP]
 > You can install the development version of the add-on by adding `#dev` to the end of the repository URL (`https://github.com/taikun114/Home-Assistant-VOICEVOX-Engine#dev`) or by clicking the button below.
 >
-> [![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Ftaikun114%2FHome-Assistant-VOICEVOX-Engine%23dev)
+> [![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Ftaikun114%2FHome-Assistant-VOICEVOX-Engine.git%23dev)
 
 
 ## Configuration
